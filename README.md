@@ -1,5 +1,5 @@
-🌐 ASP.NET Core Web API – CRUD Application
-A clean, modern, and production-ready ASP.NET Core Web API with full CRUD support, best practices, layered architecture, JWT authentication, Swagger integration.
+## ## 🌐 ASP.NET Core Web API – CRUD Application
+## A clean, modern, and production-ready ASP.NET Core Web API with full CRUD support, best practices, layered architecture, JWT authentication, Swagger integration.
 
 🚀 Key Features
 ## ✅ Built with .NET 8.0+
