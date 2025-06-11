@@ -38,29 +38,14 @@ ASP-.Net-Core-Web-API---CRUD/
 ├── appsettings.json     → Application Configuration
 ├── Dockerfile           → Docker Container Setup
 └── README.md            → Project Documentation
+
+
 🛠️ Getting Started
 ✅ Prerequisites
 .NET 8.0 SDK
 
 SQL Server or SQLite
 
-Docker (optional)
-
-💻 Run Locally
-bash
-Copy
-Edit
-git clone https://github.com/Devnath03/ASP-.Net-Core-Web-API---CRUD.git
-cd ASP-.Net-Core-Web-API---CRUD
-dotnet restore
-dotnet ef database update
-dotnet run
-🐳 Run with Docker
-bash
-Copy
-Edit
-docker build -t aspnetcore-crud-api .
-docker run -p 5000:80 aspnetcore-crud-api
 🔐 Authentication & Authorization
 🔑 JWT Bearer Token Authentication
 
